@@ -1,0 +1,217 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.nabvar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 0%;
+  position: sticky;
+  cursor: pointer;
+  
+  
+  
+}
+.logo img {
+  width: 7%;
+  border: 3px solid black;
+  border-radius: 50px;
+}
+.list {
+  display: flex;
+  list-style: none;
+  background-color: snow;
+  
+}
+.list li a {
+  text-decoration: none;
+  padding-right: 150px;
+  color: black;
+ 
+}
+.list li {
+  margin-top: 1%;
+}
+.second {
+  display: flex;
+  background-color: lightblue;
+  height: 60vh;
+}
+.pic img {
+  margin-top: 19%;
+  padding-left: 20px;
+  width: 150%;
+}
+.para {
+  margin-top: 3%;
+  padding-right: 70px;
+  padding-left: 190px;
+}
+.btn {
+  margin-top: 2%;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor: pointer;
+}
+.Project {
+  background-color: skyblue;
+}
+.Project h2 {
+  text-align: center;
+  font-size: 40px;
+  cursor: pointer;
+}
+.pro {
+  width: 100%;
+  display: flex;
+  margin-top: 3%;
+  margin-right: 90px;
+
+  /* height: 100%;
+    width: 200px; */
+}
+.thanka {
+  width: 33%;
+  /* height: 30%; */
+}
+
+.ratm {
+  width: 33%;
+  /* height: 30%; */
+}
+.lod {
+  width: 33%;
+  /* height: 30%; */
+}
+.thanka img {
+  margin-left: 50px;
+  cursor: pointer;
+
+  width: 70%;
+  height: 75%;
+}
+.thanka p {
+  text-align: center;
+  padding-right: 80px;
+  font-size: 30px;
+  font-style: oblique;
+  color: darkgreen;
+}
+.thanka img:hover {
+  box-shadow: 11px 18px 41px -6px #000000;
+}
+
+.ratm img {
+  margin-left: 50px;
+  width: 70%;
+  height: 75%;
+  cursor: pointer;
+}
+.ratm p {
+  text-align: center;
+  padding-right: 50px;
+  font-size: 25px;
+  font-style: oblique;
+  color: darkgreen;
+  
+  
+}
+.ratm img:hover {
+  box-shadow: 11px 18px 41px -6px #000000;
+}
+.lod img {
+  margin-left: 50px;
+  width: 70%;
+  height: 75%;
+  cursor: pointer;
+  
+}
+.lod p {
+  text-align: center;
+  padding-right: 50px;
+  font-size: 30px;
+  font-style: oblique;
+   color: darkgreen;
+}
+.lod img:hover {
+  box-shadow: 11px 18px 41px -6px #000000;
+}
+.Work p{
+font-size: 40px;
+   
+    text-align: center;
+    /* background-color: antiquewhite; */
+}
+.Work{
+    background-color: antiquewhite;
+    height: 50vh;
+    
+}
+.fa-solid{
+  font-size: 50px;
+  text-align: center;
+  margin-top: 3%;
+  padding-left: 10%;
+}
+.fa-clock p{
+  margin-top: 20%;
+ font-size: 15px;
+}
+.fa-clock h5{
+  margin-top: 9%;
+}
+.fa-calendar-days p{
+  margin-top: 20%;
+ font-size: 15px;
+}
+.fa-calendar-days h5{
+  margin-top: 9%;
+
+}
+.fa-divide p{
+  margin-top: 20%;
+ font-size: 15px;
+}
+.fa-divide h5{
+  margin-top: 9%;
+}
+.fa-cloud p{
+margin-top: 20%;
+ font-size: 15px;
+}
+.fa-cloud h5{
+  margin-top: 9%;
+  
+}
+.Contact{
+  /* margin-top: 2%; */
+  text-align: center;
+  font-size: 40px;
+  background-color: red;
+  color: aliceblue;
+  height: 50vh;
+}
+.Contact p1{
+  font-size: x-large;
+  color: aliceblue;
+
+}
+.icon{
+  margin-top: 1px;
+  padding-right: 12%;
+  cursor: pointer;
+}
+.footer{
+  /* margin: 1%; */
+  height: 9vh;
+  background-color: black;
+}
+.textcenter{
+  text-align: center;
+  color: aliceblue;
+}
+.text{
+  color: aliceblue;
+  text-align: center;
+}
